@@ -7,7 +7,7 @@ about:
   head: a080c85
   archived: false
   latestVersion: v2.0.0-alpha.3
-  collectedAt: 2026-09-04T19:36:36Z
+  collectedAt: 2026-09-04T20:53:46Z
 timeline:
   created: 2015-08-16
   lastCommit: 2017-12-13
@@ -85,6 +85,74 @@ total:
   openIssue: 112
   commit: 230
 ---
+path: /home/runner/.x-repo/github.com/yudai/gotty
+collectedAt: 2026-09-04T20:53:47Z
+loc:
+  Go:
+    code: 8822
+    comments: 1667
+    blanks: 1568
+    files: 94
+  Json:
+    code: 2584
+    comments: 0
+    blanks: 0
+    files: 5
+  TypeScript:
+    code: 509
+    comments: 4
+    blanks: 88
+    files: 11
+  Happy:
+    code: 444
+    comments: 0
+    blanks: 47
+    files: 2
+  Python:
+    code: 309
+    comments: 2
+    blanks: 66
+    files: 2
+  Makefile:
+    code: 68
+    comments: 0
+    blanks: 29
+    files: 2
+  Yaml:
+    code: 68
+    comments: 6
+    blanks: 14
+    files: 3
+  JavaScript:
+    code: 39
+    comments: 77
+    blanks: 1
+    files: 2
+  Css:
+    code: 25
+    comments: 0
+    blanks: 1
+    files: 2
+  Html:
+    code: 16
+    comments: 0
+    blanks: 0
+    files: 1
+  Bash:
+    code: 14
+    comments: 1
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1833
+    blanks: 563
+    files: 15
+total:
+  code: 13115
+  comments: 3621
+  blanks: 2430
+  files: 140
 ---
 date: "2026-08-24"
 repo:

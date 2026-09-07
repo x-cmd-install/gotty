@@ -5,15 +5,15 @@ about:
   head: a080c85
   archived: false
   latestVersion: "v2.0.0-alpha.3"
-  collectedAt: 2026-09-07T04:23:42Z
+  collectedAt: 2026-09-07T20:04:38Z
 timeline:
   created: 2015-08-16
   lastCommit: 2017-12-13
   lastRelease: 2017-12-13
 popularity:
-  star: 19547
+  star: 19549
   watcher: 323
-  fork: 1407
+  fork: 1406
   release: 16
   contributor: 23
   pullRequest: 118
@@ -84,7 +84,7 @@ total:
   commit: 230
 ---
 path: /home/runner/.x-repo/github.com/yudai/gotty
-collectedAt: 2026-09-07T04:23:43Z
+collectedAt: 2026-09-07T20:04:40Z
 loc:
   Go:
     code: 8822
@@ -239,7 +239,7 @@ checks:
       - 'Warn: 0 commits out of 4 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:23:44+00:00
+  collectedAt: 2026-09-07T20:04:40+00:00
   platform:
     darwin/arm64:
       name:  null

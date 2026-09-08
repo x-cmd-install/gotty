@@ -5,7 +5,7 @@ about:
   head: a080c85
   archived: false
   latestVersion: "v2.0.0-alpha.3"
-  collectedAt: 2026-09-08T01:44:28Z
+  collectedAt: 2026-09-08T04:24:08Z
 timeline:
   created: 2015-08-16
   lastCommit: 2017-12-13
@@ -84,7 +84,7 @@ total:
   commit: 230
 ---
 path: /home/runner/.x-repo/github.com/yudai/gotty
-collectedAt: 2026-09-08T01:44:29Z
+collectedAt: 2026-09-08T04:24:09Z
 loc:
   Go:
     code: 8822

@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.0.0-alpha.3"
   latestRelease: "v1.0.1"
   latestPrerelease: "v2.0.0-alpha.3"
-  collectedAt: 2026-09-10T20:38:45Z
+  collectedAt: 2026-09-10T23:09:13Z
 timeline:
   created: 2015-08-16
   lastCommit: 2017-12-13
@@ -88,7 +88,7 @@ total:
   commit: 230
 ---
 path: /home/runner/.x-repo/github.com/yudai/gotty
-collectedAt: 2026-09-10T20:38:46Z
+collectedAt: 2026-09-10T23:09:14Z
 loc:
   Go:
     code: 8822

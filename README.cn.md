@@ -4,7 +4,7 @@
 
 Share your terminal as a web application
 
-![gotty](https://repo.x-cmd.io/gotty.svg)
+![gotty](https://repo.x-cmd.io/gotty.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,29 @@ x install gotty
 - **最新版本**: `v2.0.0-alpha.3` (2017-08-08)
 - **最近提交**: 2017-12-13
 - **Release 含资产**: 14 个
-- **发布时间**: 2017-08-08T08:34:48Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [gotty_darwin_386.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_darwin_386.tar.gz) | 2.6 MiB | `native/darwin/x64` |
+| [gotty_darwin_amd64.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_darwin_amd64.tar.gz) | 2.8 MiB | `native/darwin/x64` |
+| [gotty_freebsd_386.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_freebsd_386.tar.gz) | 2.6 MiB | `native/unknown` |
+| [gotty_freebsd_amd64.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_freebsd_amd64.tar.gz) | 2.8 MiB | `native/linux/x64` |
+| [gotty_freebsd_arm.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_freebsd_arm.tar.gz) | 2.6 MiB | `native/linux/arm` |
+| [gotty_linux_386.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_linux_386.tar.gz) | 2.6 MiB | `native/unknown` |
+| [gotty_linux_amd64.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_linux_amd64.tar.gz) | 2.8 MiB | `native/linux/x64` |
+| [gotty_linux_arm.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_linux_arm.tar.gz) | 2.5 MiB | `native/linux/arm` |
+| [gotty_netbsd_386.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_netbsd_386.tar.gz) | 2.6 MiB | `native/unknown` |
+| [gotty_netbsd_amd64.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_netbsd_amd64.tar.gz) | 2.8 MiB | `native/linux/x64` |
+| [gotty_netbsd_arm.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_netbsd_arm.tar.gz) | 2.5 MiB | `native/linux/arm` |
+| [gotty_openbsd_386.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_openbsd_386.tar.gz) | 2.6 MiB | `native/unknown` |
+| [gotty_openbsd_amd64.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_openbsd_amd64.tar.gz) | 2.8 MiB | `native/linux/x64` |
+| [SHA256SUMS](https://github.com/yudai/gotty/releases/download/v1.0.1/SHA256SUMS) | 1.2 KiB | `other` |
 
 ## 流行度
 
-- **Star**: 19,551 · **Fork**: 1,406 · **开放 issue**: 247 · **贡献者**: 23
+- **Star**: 19,550 · **Fork**: 1,406 · **开放 issue**: 247 · **贡献者**: 23
 
 ## 累计统计
 
@@ -71,4 +89,4 @@ gotty 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:28:45Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:58:51Z._

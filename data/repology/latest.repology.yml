@@ -1,0 +1,146 @@
+- repo: aur
+  srcname: gotty-bin
+  binname: gotty-bin
+  visiblename: gotty-bin
+  version: 1.8.0
+  origversion: 1.8.0-1
+  status: newest
+  summary: Simple command line tool that turns your CLI tools into web applications.
+  maintainers:
+    - midov@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: gotty-git
+  binname: gotty-git
+  visiblename: gotty-git
+  version: 2.0.0.alpha.3.r0.ga080c85
+  origversion: 2.0.0.alpha.3.r0.ga080c85-2
+  status: rolling
+  summary: Share your terminal as a web application
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - MIT
+- repo: freebsd
+  srcname: www/gotty
+  binname: gotty
+  visiblename: www/gotty
+  version: 1.8.0
+  origversion: 1.8.0_5
+  status: newest
+  summary: Command line tool that turns your CLI tools into web applications
+  maintainers:
+    - ehaupt@freebsd.org
+  categories:
+    - www
+- repo: nix_stable_24_05
+  srcname: gotty
+  visiblename: gotty
+  version: 1.5.0
+  origversion: null
+  status: outdated
+  summary: Share your terminal as a web application
+  maintainers:
+    - pavol@rusnak.io
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: gotty
+  visiblename: gotty
+  version: 1.5.0
+  origversion: null
+  status: outdated
+  summary: Share your terminal as a web application
+  maintainers:
+    - pavol@rusnak.io
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: gotty
+  visiblename: gotty
+  version: 1.5.0
+  origversion: null
+  status: outdated
+  summary: Share your terminal as a web application
+  maintainers:
+    - pavol@rusnak.io
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: gotty
+  visiblename: gotty
+  version: 1.6.0
+  origversion: null
+  status: outdated
+  summary: Share your terminal as a web application
+  maintainers:
+    - pavol@rusnak.io
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: gotty
+  visiblename: gotty
+  version: 1.7.1
+  origversion: null
+  status: outdated
+  summary: Share your terminal as a web application
+  maintainers:
+    - pavol@rusnak.io
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: gotty
+  visiblename: gotty
+  version: 1.8.0
+  origversion: null
+  status: newest
+  summary: Share your terminal as a web application
+  maintainers:
+    - pavol@rusnak.io
+  licenses:
+    - MIT
+- repo: openpkg_current
+  srcname: gotty
+  visiblename: gotty
+  version: 2.0.0a3.20200607
+  origversion: null
+  status: untrusted
+  summary: Web Terminal Sharing
+  licenses:
+    - MIT
+  categories:
+    - Web
+- repo: slackbuilds
+  srcname: network/gotty
+  visiblename: network/gotty
+  version: 1.0.1
+  origversion: null
+  status: outdated
+  maintainers:
+    - hellocodelinux@gmail.com
+  categories:
+    - network
+- repo: termux
+  srcname: gotty
+  binname: gotty
+  visiblename: gotty
+  version: 1.8.0
+  origversion: null
+  status: newest
+  summary: Share your terminal as a web application
+  maintainers:
+    - termux@github
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: gotty
+  binname: gotty
+  visiblename: gotty
+  version: 1.0.1
+  origversion: 1.0.1_11
+  status: outdated
+  summary: Share your terminal as a web application
+  maintainers:
+    - orphan@voidlinux.org
+  licenses:
+    - MIT

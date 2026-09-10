@@ -12,53 +12,7 @@ Share your terminal as a web application
 x install gotty
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/yudai/gotty>
-- **License**: MIT
-
-## Release
-
-- **Latest**: `v2.0.0-alpha.3` (2017-08-08)
-- **Last commit**: 2017-12-13
-- **Assets in release**: 14
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [gotty_darwin_386.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_darwin_386.tar.gz) | 2.6 MiB | `native/darwin/x64` |
-| [gotty_darwin_amd64.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_darwin_amd64.tar.gz) | 2.8 MiB | `native/darwin/x64` |
-| [gotty_freebsd_386.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_freebsd_386.tar.gz) | 2.6 MiB | `native/unknown` |
-| [gotty_freebsd_amd64.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_freebsd_amd64.tar.gz) | 2.8 MiB | `native/linux/x64` |
-| [gotty_freebsd_arm.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_freebsd_arm.tar.gz) | 2.6 MiB | `native/linux/arm` |
-| [gotty_linux_386.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_linux_386.tar.gz) | 2.6 MiB | `native/unknown` |
-| [gotty_linux_amd64.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_linux_amd64.tar.gz) | 2.8 MiB | `native/linux/x64` |
-| [gotty_linux_arm.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_linux_arm.tar.gz) | 2.5 MiB | `native/linux/arm` |
-| [gotty_netbsd_386.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_netbsd_386.tar.gz) | 2.6 MiB | `native/unknown` |
-| [gotty_netbsd_amd64.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_netbsd_amd64.tar.gz) | 2.8 MiB | `native/linux/x64` |
-| [gotty_netbsd_arm.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_netbsd_arm.tar.gz) | 2.5 MiB | `native/linux/arm` |
-| [gotty_openbsd_386.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_openbsd_386.tar.gz) | 2.6 MiB | `native/unknown` |
-| [gotty_openbsd_amd64.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_openbsd_amd64.tar.gz) | 2.8 MiB | `native/linux/x64` |
-| [SHA256SUMS](https://github.com/yudai/gotty/releases/download/v1.0.1/SHA256SUMS) | 1.2 KiB | `other` |
-
-## Popularity
-
-- **Stars**: 19,550 · **Forks**: 1,406 · **Open issues**: 247 · **Contributors**: 23
-
-## Totals (cumulative)
-
-- **Releases**: 16 · **Merged PRs**: 33 · **Open PRs**: 46 · **Closed issues**: 135 · **Open issues**: 112 · **Commits**: 230
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-## Code size
+## Code insight
 
 Total: **12,898** lines of code across **114** files in the top 5 languages.
 
@@ -80,6 +34,64 @@ Lowest-scoring checks:
 - **Dangerous-Workflow** (-1/10) — no workflows found
 - **Token-Permissions** (-1/10) — No tokens found
 
+## Source
+
+- **Upstream**: <https://github.com/yudai/gotty>
+- **License**: MIT
+
+## Release
+
+- **Latest**: `v2.0.0-alpha.3` (2017-08-08)
+- **Last commit**: 2017-12-13
+- **Assets in release**: 14
+
+## Popularity
+
+- **Stars**: 19,550 · **Forks**: 1,406 · **Open issues**: 247 · **Contributors**: 23
+
+## Totals (cumulative)
+
+- **Releases**: 16 · **Merged PRs**: 33 · **Open PRs**: 46 · **Closed issues**: 135 · **Open issues**: 112 · **Commits**: 230
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 0 | 0 | 1 | 1 | 4 | 0 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [gotty_darwin_386.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_darwin_386.tar.gz) | 2.6 MiB | `native/darwin/x64` |
+| [gotty_darwin_amd64.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_darwin_amd64.tar.gz) | 2.8 MiB | `native/darwin/x64` |
+| [gotty_freebsd_386.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_freebsd_386.tar.gz) | 2.6 MiB | `native/unknown` |
+| [gotty_freebsd_amd64.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_freebsd_amd64.tar.gz) | 2.8 MiB | `native/linux/x64` |
+| [gotty_freebsd_arm.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_freebsd_arm.tar.gz) | 2.6 MiB | `native/linux/arm` |
+| [gotty_linux_386.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_linux_386.tar.gz) | 2.6 MiB | `native/unknown` |
+| [gotty_linux_amd64.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_linux_amd64.tar.gz) | 2.8 MiB | `native/linux/x64` |
+| [gotty_linux_arm.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_linux_arm.tar.gz) | 2.5 MiB | `native/linux/arm` |
+| [gotty_netbsd_386.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_netbsd_386.tar.gz) | 2.6 MiB | `native/unknown` |
+| [gotty_netbsd_amd64.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_netbsd_amd64.tar.gz) | 2.8 MiB | `native/linux/x64` |
+| [gotty_netbsd_arm.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_netbsd_arm.tar.gz) | 2.5 MiB | `native/linux/arm` |
+| [gotty_openbsd_386.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_openbsd_386.tar.gz) | 2.6 MiB | `native/unknown` |
+| [gotty_openbsd_amd64.tar.gz](https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_openbsd_amd64.tar.gz) | 2.8 MiB | `native/linux/x64` |
+| [SHA256SUMS](https://github.com/yudai/gotty/releases/download/v1.0.1/SHA256SUMS) | 1.2 KiB | `other` |
+
+## Distribution status
+
+Reported by **13** distros on [repology.org](https://repology.org/project/gotty). **4** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `1.8.0` | ✅ latest |
+| Void | `1.0.1` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for gotty lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gotty` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -89,4 +101,4 @@ Install metadata for gotty lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:58:50Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:39:00Z._

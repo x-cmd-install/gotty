@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2739448,
       "digest": null,
-      "download_count": 549,
+      "download_count": 554,
       "created_at": "2017-08-08T08:34:48Z",
       "updated_at": "2017-08-08T08:34:48Z",
       "browser_download_url": "https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_darwin_386.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2906969,
       "digest": null,
-      "download_count": 8205,
+      "download_count": 8212,
       "created_at": "2017-08-08T08:34:48Z",
       "updated_at": "2017-08-08T08:34:48Z",
       "browser_download_url": "https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_darwin_amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2936530,
       "digest": null,
-      "download_count": 385,
+      "download_count": 390,
       "created_at": "2017-08-08T08:34:48Z",
       "updated_at": "2017-08-08T08:34:48Z",
       "browser_download_url": "https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_freebsd_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2676483,
       "digest": null,
-      "download_count": 238,
+      "download_count": 243,
       "created_at": "2017-08-08T08:34:48Z",
       "updated_at": "2017-08-08T08:34:49Z",
       "browser_download_url": "https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_freebsd_arm.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2760156,
       "digest": null,
-      "download_count": 12411,
+      "download_count": 12417,
       "created_at": "2017-08-08T08:34:48Z",
       "updated_at": "2017-08-08T08:34:48Z",
       "browser_download_url": "https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_linux_386.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 2950953,
       "digest": null,
-      "download_count": 709793,
+      "download_count": 709955,
       "created_at": "2017-08-08T08:34:48Z",
       "updated_at": "2017-08-08T08:34:48Z",
       "browser_download_url": "https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_linux_amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 2667353,
       "digest": null,
-      "download_count": 23776,
+      "download_count": 23795,
       "created_at": "2017-08-08T08:34:48Z",
       "updated_at": "2017-08-08T08:34:48Z",
       "browser_download_url": "https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_linux_arm.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 2927110,
       "digest": null,
-      "download_count": 282,
+      "download_count": 287,
       "created_at": "2017-08-08T08:34:48Z",
       "updated_at": "2017-08-08T08:34:48Z",
       "browser_download_url": "https://github.com/yudai/gotty/releases/download/v1.0.1/gotty_netbsd_amd64.tar.gz"

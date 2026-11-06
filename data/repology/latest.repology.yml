@@ -28,7 +28,7 @@
   visiblename: www/gotty
   version: 1.10.0
   origversion: 1.10.0_1
-  status: newest
+  status: outdated
   summary: Command line tool that turns your CLI tools into web applications
   maintainers:
     - ehaupt@freebsd.org
@@ -94,7 +94,7 @@
   visiblename: gotty
   version: 1.10.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Share your terminal as a web application
   maintainers:
     - pavol@rusnak.io
@@ -125,7 +125,7 @@
   srcname: gotty
   binname: gotty
   visiblename: gotty
-  version: 1.10.0
+  version: 1.11.0
   origversion: null
   status: newest
   summary: Share your terminal as a web application

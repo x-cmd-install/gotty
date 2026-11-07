@@ -100,17 +100,6 @@
     - pavol@rusnak.io
   licenses:
     - MIT
-- repo: openpkg_current
-  srcname: gotty
-  visiblename: gotty
-  version: 2.0.0a3.20200607
-  origversion: null
-  status: untrusted
-  summary: Web Terminal Sharing
-  licenses:
-    - MIT
-  categories:
-    - Web
 - repo: slackbuilds
   srcname: network/gotty
   visiblename: network/gotty

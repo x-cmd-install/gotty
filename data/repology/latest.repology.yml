@@ -92,9 +92,9 @@
 - repo: nix_unstable
   srcname: gotty
   visiblename: gotty
-  version: 1.10.0
+  version: 1.11.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Share your terminal as a web application
   maintainers:
     - pavol@rusnak.io

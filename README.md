@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 19,559 · **Forks**: 1,402 · **Open issues**: 247 · **Contributors**: 23
+- **Stars**: 19,558 · **Forks**: 1,402 · **Open issues**: 247 · **Contributors**: 23
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-09 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-08-10 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-05-12 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-11-13 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last720d | 2024-11-18 | 0 | 0 | 2 | 1 | 4 | 0 |
+| 30d | 2026-10-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-11 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-08-12 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-05-14 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 360d | 2025-11-15 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last720d | 2024-11-20 | 0 | 0 | 2 | 1 | 4 | 0 |
 
 ## Release assets
 
@@ -85,7 +85,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **12** distros on [repology.org](https://repology.org/project/gotty). **2** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **12** distros on [repology.org](https://repology.org/project/gotty). **3** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -101,4 +101,4 @@ Install metadata for gotty lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T05:50:14Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:05:51Z._

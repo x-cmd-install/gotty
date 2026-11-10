@@ -26,9 +26,9 @@
   srcname: www/gotty
   binname: gotty
   visiblename: www/gotty
-  version: 1.10.0
-  origversion: 1.10.0_1
-  status: outdated
+  version: 1.11.0
+  origversion: null
+  status: newest
   summary: Command line tool that turns your CLI tools into web applications
   maintainers:
     - ehaupt@freebsd.org

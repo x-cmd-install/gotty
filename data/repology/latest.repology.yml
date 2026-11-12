@@ -27,7 +27,7 @@
   binname: gotty
   visiblename: www/gotty
   version: 1.11.0
-  origversion: null
+  origversion: 1.11.0_1
   status: newest
   summary: Command line tool that turns your CLI tools into web applications
   maintainers:
